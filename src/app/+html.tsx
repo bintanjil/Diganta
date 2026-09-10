@@ -14,8 +14,8 @@ export default function Root({ children }: PropsWithChildren) {
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="theme-color" content="#046A48" />
         <meta name="description" content="Diganta — money, goals and daily life in one private app." />
-        <link rel="manifest" href="/manifest.webmanifest" />
-        <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+        <link rel="manifest" href="manifest.webmanifest" />
+        <link rel="apple-touch-icon" href="apple-touch-icon.png" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
