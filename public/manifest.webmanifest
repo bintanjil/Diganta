@@ -1,0 +1,33 @@
+{
+  "name": "Diganta",
+  "short_name": "Diganta",
+  "description": "Track money, savings, goals and daily life in one private, offline-first app.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#046A48",
+  "theme_color": "#046A48",
+  "lang": "en",
+  "categories": ["finance", "productivity", "lifestyle"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
